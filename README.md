@@ -101,7 +101,9 @@ The objective is to predict the next trading day's stock price direction and pro
 ---
 
 # 📂 Project Structure
+## 📁 Project Structure
 
+```text
 AI-Investment-Decision-Support/
 │
 ├── data/
@@ -120,13 +122,12 @@ AI-Investment-Decision-Support/
 │   ├── 09_lstm_stock_prediction.ipynb
 │   └── 10_investment_decision_dashboard.ipynb
 │
-├── images/
 ├── src/
+├── images/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
-
 ---
 
 # 📊 Dataset
